@@ -10,8 +10,8 @@ import Clutch from "../assets/Clutch.svg";
 const Hero = () => {
   return (
     <main>
-      <div className="space-y-6">
-        <div className="lg:max-w-[846px] md:max-w-[846px] max-w-[350px] m-auto space-y-6">
+      <div className="space-y-8">
+        <div className="lg:max-w-[900px] md:max-w-[846px] max-w-[350px] m-auto space-y-8">
           <h4 className="text-center md:leading-[72px] md:text-[64px] lg:leading-[72px] lg:text-[64px] leading-10 text-[32px]  font-medium lg:font-semibold">
             Start monitoring your website like a pro
           </h4>

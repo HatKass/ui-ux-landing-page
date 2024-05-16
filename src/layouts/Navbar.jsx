@@ -20,7 +20,7 @@ const Navbar = () => {
 
   return (
     <nav className="bg-white">
-      <div className="flex lg:px-20 lg:py-6 justify-between p-6 w-full">
+      <div className="flex lg:px-20 lg:py-6 justify-between p-6 w-full mb-8">
         <div className="flex gap-x-[74px]">
           <img src={Logo} alt="logo" />
           <ul className="hidden lg:flex justify-between items-center gap-x-14">

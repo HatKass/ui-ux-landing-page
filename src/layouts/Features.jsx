@@ -8,7 +8,7 @@ import pinkButton from "../assets/pink-button.svg";
 
 const Features = () => {
   return (
-    <main className="py-14 space-y-14">
+    <main className="py-14">
       <div className="space-y-6 md:grid lg:grid grid-cols-2 gap-x-6 place-items-center">
         <div className="space-y-6 md:space-y-8  lg:space-y-8 lg:max-w-[628px] lg:h-[628px] md:flex lg:flex flex-col justify-center">
           <h3 className="text-[#0085FF] font-medium">Sales Monitoring</h3>
